@@ -1,0 +1,405 @@
+    1  git clone https://github.com/swader/homestead_improved_my_project
+    2  git clone https://github.com/swader/homestead_improved_my_project
+    3  cd my_project; mkdir -p Project/public
+    4  git clone https://github.com/swader/homestead_improved_my_project
+    5  node
+    6  npm install nodemon
+    7  nodemon app.js
+    8  npm nodemon
+    9  nodemon
+   10  app.js
+   11  npm app.js
+   12  node app.js
+   13  node app.js
+   14  node app.js
+   15  node app.js
+   16  node app.js
+   17  node app.js
+   18  node app.js
+   19  node app.js
+   20  node app.js
+   21  node app.js
+   22  node app.js
+   23  node app.js
+   24  node app.js
+   25  node app.js
+   26  node app.js
+   27  node app.js
+   28  node app.js
+   29  node app.js
+   30  node app.js
+   31  npm clone https://github.com/bitcoinjs/bitco
+   32  cd C:\Users\styph\OneDrive\Documents\Trading Bot
+   33  cd ..
+   34  cd ..
+   35  cd users
+   36  cd styph
+   37  cd documents
+   38  cd trading bot
+   39  cd tradingbot
+   40  cd ..
+   41  cd ondedrive
+   42  cd onedrive
+   43  cd documents
+   44  cd tradingbot
+   45  sudo apr-get install build-essential
+   46  sudo apt-get install build-essential
+   47  npm install --production
+   48  npm install --production
+   49  heroku login
+   50  git lfs install
+   51  git lfs track "*.json"
+   52  cd c:cd ..
+   53  cd \onedrive
+   54  cd documents\cim900
+   55  cd documents
+   56  cd cim900
+   57  cd app
+   58  cd node-web-server
+   59  git init
+   60  git add
+   61  git add .
+   62  git commit -m "first commit"
+   63  git config --global user.name "styphoiz"
+   64  git config --global user.email "styphoiz@gmail.com"
+   65  git commit -m "first commit"
+   66  git remote add origin https://github.com/styphoizMo/cdv.git
+   67  git remote -v
+   68  git push origin master
+   69  git push origin master
+   70  sudo snap install heroku --classic
+   71  cd ..
+   72  cd ..
+   73  cd ..
+   74  git clone https://github.com/heroku/node-js-getting-started.git
+   75  cd node-js-getting-started
+   76  heroku create
+   77  git push heroku master
+   78  heroku ps:scale web=1
+   79  heroku open
+   80  cd users
+   81  ls
+   82  cd documents
+   83  cd website
+   84  ls
+   85  cd ..
+   86  cd ..
+   87  cd styph
+   88  cd onedrive
+   89  cd documents
+   90  cd website
+   91  cd myapp
+   92  cd public
+   93  cd ..
+   94  git initi
+   95  git init
+   96  git add
+   97  git add .
+   98  git add .
+   99  git commit -m "First commit"
+  100  git remote add origin remote https://github.com/styphoiz/website.git
+  101  git remote add origin remote repository https://github.com/styphoiz/website.git
+  102  git remote add  https://github.com/styphoiz/website.git
+  103  git remote add website https://github.com/styphoiz/website.git
+  104  git remote -v
+  105  git push origin 
+  106  git push website master
+  107  git pull
+  108  git pull https://github.com/styphoiz/website.git
+  109  git push website master
+  110  git push --help
+  111  git push website branch
+  112  git remote add update https://github.com/styphoiz/website.git
+  113  git remote -v
+  114  git push update
+  115  git push --set-upstream update master
+  116  git push -f origin master
+  117  git push -f website master
+  118  go build hello.go
+  119  source $HOME/.cargo/env
+  120  cd 
+  121  cd C:\Users\styph\OneDrive\Documents\1Pi
+  122  cd ..
+  123  cs styph
+  124  cd styph
+  125  cd onedrive
+  126  cd documents
+  127  cd 1pi
+  128  git clone https://github.com/second-state/ssvm-nodejs-starter
+  129  cd ssvm-nodejs-starter
+  130  docker build -t ssvm-nojs:v1
+  131  docker build -t ssvm-nojs:v1 .
+  132  docker
+  133  docker build -t ssvm-nojs:v1 .
+  134  docker build -t ssvm-nojs:v1 .
+  135  docker build -t ssvm-nojs:v1 .
+  136  docker build -t ssvm-nojs:v1 .
+  137  docker build -t ssvm-nojs:v1 .
+  138  docker build -t ssvm-nojs:v1 .
+  139  docker build -t ssvm-nojs:v1 .
+  140  docker build -t ssvm-nojs:v1 .
+  141  docker build -t ssvm-nojs:v1 .
+  142  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  143  (docker) $ cd /app
+  144  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  145  cd ..
+  146  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  147  source $HOME/.cargo/env
+  148  npm install -g ssvmup 
+  149  sudo apt-get update
+  150  apt-get update
+  151  npm apt-get update
+  152  node apt-get update
+  153  sudo apt-get update
+  154  git clone https://github.com/second-state/ssvm-nodejs-starter
+  155  cd ssvm-nodejs-starter
+  156  ssvmup build
+  157  ssvmup build
+  158  cd..
+  159  cd ..
+  160  git clone https://github.com/second-state/ssvm-nodejs-starter
+  161  cd ssvm-nodejs-starter
+  162  docker build -t ssvm-nodejs:v1 .
+  163  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  164  (docker) $ cd /app
+  165  cd /app
+  166  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  167  docker run -p 3000:3000 --rm -it -v
+  168  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  169  (docker) $ cd /app
+  170  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  171  docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1 (docker)
+  172  winpty docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1 
+  173   winpty C:\Program Files\Docker\Docker\resources\bin\docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  174  winpty C:/Program Files/Docker/Docker/resources/bin/docker run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  175  winpty "/C/Program Files/Docker/Docker/resources/bin/docker" run -p 3000:3000 --rm -it -v $(pwd):/app ssvm-nodejs:v1
+  176  eco $pwd
+  177  ehco $pwd
+  178  echo $pwd
+  179  %USERPROFILE%\.cargo\bin]
+  180  %USERPROFILE%\.cargo\bin
+  181  source $HOME/.cargo/env
+  182  source $HOME/.cargo/env
+  183  source $HOME/.cargo/env
+  184  ls
+  185  cd documents
+  186  mkdir Projects
+  187  cd projects
+  188  pwd
+  189  create-react-app --version
+  190  create-react-app
+  191  create-react-app react
+  192  create-react-app react-app
+  193  npm install gh-pages --save-dev
+  194  cd react-app
+  195  npm install gh-pages --save-dev
+  196  git init
+  197  git remote add origin https://github.com/gitname/react-app.git
+  198  npm run deploy
+  199  git remote add origin https://github.com/gitname/react-app.git
+  200  npm run deploy
+  201  npm run deploy
+  202  npm install gh-pages --save-dev
+  203  git remote add origin https://github.com/gitname/react-app.git
+  204  npm run deploy
+  205  npm run deploy
+  206  git remote add origin https://github.com/gitname/react-app.git
+  207  npm run deploy
+  208  git remote add origin https://github.com/gitname/app.git
+  209  git remote help
+  210  git remote remove origin https://github.com/gitname/app.git
+  211  git remote add origin https://github.com/gitname/app.git
+  212  cd ..
+  213  create-react-app profile
+  214  cd profile
+  215  npm install profile --save-dev
+  216  npm install app --save-dev
+  217  git init
+  218  git remote add origin https://github.com/styphoiz/styphoiz.github.io.git
+  219  npm run deply
+  220  npm run deploy
+  221  npm install app --save-dev
+  222  npm run deploy
+  223  npm install gh-pages --save-dev
+  224  npm run deploy
+  225  git add .
+  226  git commit -m "Profile landing page"
+  227  git push origin master
+  228  curl onedayonly.co.za 2>&1 | grep -o -E 'href="([^"#]+)"' | cut -d'"' -f2
+  229  curl onedayonly.co.za
+  230  curl onedayonly.co.za 2>&1 | grep -o -E 'href="([^"#]+)"' | cut -d'"' -f2
+  231  cd git-basic-exercises
+  232  git log
+  233  mkdir git-basic-exercises
+  234  cd 
+  235  cd git-basic-exercises
+  236  ls -a
+  237  git init
+  238  ls -a
+  239  touch README.md
+  240  ls -a
+  241  git status
+  242  git log
+  243  git add
+  244  git add README.md
+  245  git status
+  246  git unstage 
+  247  git remove README.md
+  248  git commit -m "initial commit"
+  249  git log
+  250  nano README.md
+  251  cat README.md
+  252  git stats
+  253  git status
+  254  git commit -m "Second commit"
+  255  git add README.md
+  256  git status
+  257  git commit -m "Second commit"
+  258  nano README.md
+  259  git status
+  260  git add README.md
+  261  git status
+  262  git commit -m "Third commit"
+  263  git log
+  264  git checkout 6111ee50a486cd11164bf9d74e99b7ce6686a4ce
+  265  cat README.md
+  266  git checkout master
+  267  cat README.md
+  268  git branch
+  269  git branch milkshake-flavours
+  270  git branch
+  271  git checkout milkshae-flavours
+  272  git checkout milkshake-flavours
+  273  git branch
+  274  nano milkshakes.md
+  275  cat milkshakes.md
+  276  git status
+  277  git add milkshakes.md
+  278  git log
+  279  git commit -m "added initial flavours"
+  280  git log
+  281  checkout master
+  282  git checkout master
+  283  git log
+  284  git status
+  285  git branch history
+  286  git branch
+  287  git checkout history
+  288  git log
+  289  history > history.txt
+  290  ls
+  291  git log
+  292  git status
+  293  git commit -m "added history"
+  294  git add history.txt
+  295  git commit -m "added history"
+  296  git log
+  297  nano README.md
+  298  git add README.md
+  299  git commit -m "randome readme changes"
+  300  git checkout history
+  301  git branch
+  302  git master
+  303  git branch master
+  304  git checkout master
+  305  git checkout milkshake
+  306  git branch milkshake
+  307  git checkout
+  308  git branch
+  309  git rm milkshake
+  310  git branch -rm milkshake
+  311  git branch -d milkshake
+  312  git branch
+  313  git checkout milkshake-flavours
+  314  git log
+  315  nano README.md
+  316  git commit -m "random readme changes"
+  317  git add README.md
+  318  git commit -m "random readme changes"
+  319  git checkout history
+  320  cat README.md
+  321  rm README.md echo "booya" > README.md
+  322  rm README.md
+  323  ls
+  324  cat README.md
+  325  git checkout history
+  326  cat README.md
+  327  echo "booya" > README.md
+  328  cat README.md
+  329  git add README.md
+  330  git commit -m "rewrote readme"
+  331  git checkout master
+  332  ls
+  333  git log
+  334  git checkout milkshake-flavours
+  335  ls
+  336  git log
+  337  git git 
+  338  git -d d7bbcdfa34a5bfd85c26b7405496dca637b1285c
+  339  git -d d7bbcdfa34a5bfd85c26b7405496dca637b1285c
+  340  git checkout history
+  341  ls
+  342  ls
+  343  git log
+  344  git checkout master
+  345  git merge milkshake-flavours
+  346  ls
+  347  git log
+  348  it 
+  349  git merge hostory
+  350  git merge history
+  351  git add ...
+  352  cd ..
+  353  mkdir git-basic-exercises
+  354  cd git-basic-exercises
+  355  ls -a
+  356  git init
+  357  ls -a
+  358  git status
+  359  touch README.md
+  360  ls -a
+  361  git status
+  362  git log
+  363  git add README.md
+  364  git status
+  365  git rm --cached README.md
+  366  ls
+  367  ls -a
+  368  git add README.md
+  369  git commit -m "initial commit"
+  370  git log
+  371  nano README.md
+  372  cat README.md
+  373  git stats
+  374  git status
+  375  git add README.md
+  376  git commit -m "second commit"
+  377  git status
+  378  nano README.md
+  379  git status
+  380  git add README.md
+  381  git commit -m "third commit"
+  382  git log
+  383  nano README.md
+  384  git status
+  385  git branch
+  386  git branch milkshake-flavours
+  387  git branch
+  388  git branch milkshake-flavours
+  389  git branch milkshake-flavours
+  390  git branch
+  391  git checkout milkshake-flavours
+  392  git branch
+  393  nano milkshakes.md
+  394  git status
+  395  git add milkshakes.md
+  396  git status
+  397  git commit -m "added initial flavours"
+  398  git log
+  399  git checkout master
+  400  git log
+  401  git branch history
+  402  git checkout history
+  403  git log
+  404  git branch
+  405  history > history.txt
